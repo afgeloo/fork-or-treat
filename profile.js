@@ -1,7 +1,7 @@
 // profile.js
 window.PROFILE = {
   avatar: "assets/img/profile.jpeg",
-  name: "France Angelo Joel M. Reyes",
+  name: "France sa Joel M. Reyes",
   role: "Aspiring Software Engineer",
   bio: "carpe diem",
   tags: ["Git", "GitHub", "Python", "Nextjs", "Reactjs", "React Native", "Flutter", "Data Science", "Machine Learning"],
