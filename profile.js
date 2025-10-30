@@ -4,7 +4,7 @@ window.PROFILE = {
   name: "Czhiaztee Tingcungco",
   role: "Aspiring AI Engineer",
   bio: "Carpe Diem",
-  tags: ["Git", "GitHub", "HTML", "CSS", "JavaScript", "Web Development", "Data Science", "Machine Learning"],
+  tags: ["Git", "GitHub", "HTML", "CSS", "After Effects", "Web Development", "Carat", "Anime"],
   facts: [
     { label: "Nickname",      value: "Czhiaz" },
     { label: "Favorite Food", value: "Buttered Shrimp" },
