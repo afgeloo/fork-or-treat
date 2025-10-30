@@ -1,16 +1,16 @@
 // profile.js
 window.PROFILE = {
   avatar: "assets/img/profile.png",
-  name: "Wizard Honeydroid",
-  role: "Aspiring ML Engineer",
-  bio: "Tech birdie who loves coding, tidy repos, and applying what I learn.",
-  tags: ["Git", "GitHub", "HTML", "CSS", "JavaScript", "Web Development", "Data Science", "Machine Learning"],
+  name: "Venelyn Mae Cordova",
+  role: "Aspiring Software Developer",
+  bio: "Comsci girl who codes and trying to apply what she learn.",
+  tags: ["Git", "GitHub", "HTML", "CSS", "JavaScript", "Web Development"],
   facts: [
-    { label: "Nickname",      value: "Bentong" },
-    { label: "Favorite Food", value: "Tonkatsu 🍱" },
+    { label: "Nickname",      value: "Ven" },
+    { label: "Favorite Food", value: "Leche Flan 🍮" },
     { label: "Course",        value: "BS Computer Science" },
     { label: "College",       value: "CISTM" },
-    { label: "Hobby",         value: "Pixel art 🎨" },
+    { label: "Hobby",         value: "Fangirling 💜" },
     { label: "Location",      value: "Manila, PH 📍" }
   ]
 };
