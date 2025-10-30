@@ -2,7 +2,7 @@
 window.PROFILE = {
   avatar: "assets/img/Ruth.jpg",
   name: "Creepy Baby Buster",
-  role: "Aspiring ML Engineer",
+  role: "Aspiring Data Analyst",
   bio: "Mathematics Student | GDGoC PLM Lead Secretariat",
   tags: ["Git", "GitHub", "Latex", "VSCode", "Python", "JASP", "Data Science", "CNN"],
   facts: [
