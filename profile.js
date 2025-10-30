@@ -3,7 +3,7 @@ window.PROFILE = {
   avatar: "assets/img/profile.png",
   name: "Wizard Honeydroid",
   role: "Aspiring ML Engineer",
-  bio: "Tech birdie who loves coding, tidy repos, and applying what I learn.",
+  bio: "hellooo, idk what put mwhaahaha",
   tags: ["Git", "GitHub", "HTML", "CSS", "JavaScript", "Web Development", "Data Science", "Machine Learning"],
   facts: [
     { label: "Nickname",      value: "Bentong" },
