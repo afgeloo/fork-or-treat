@@ -1,7 +1,7 @@
 // profile.js
 window.PROFILE = {
   avatar: "assets/img/profile.png",
-  name: "Honeydroid",
+  name: "Wizard Honeydroid",
   role: "Aspiring ML Engineer",
   bio: "Tech birdie who loves coding, tidy repos, and applying what I learn.",
   tags: ["Git", "GitHub", "HTML", "CSS", "JavaScript", "Web Development", "Data Science", "Machine Learning"],
