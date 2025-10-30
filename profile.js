@@ -1,16 +1,16 @@
 // profile.js
 window.PROFILE = {
-  avatar: "assets/img/profile.png",
-  name: "Wizard Honeydroid",
-  role: "Aspiring ML Engineer",
+  avatar: "assets/img/pfp2.jpg",
+  name: "Elijah Nery",
+  role: "Aspiring Cloud Engineer",
   bio: "Tech birdie who loves coding, tidy repos, and applying what I learn.",
-  tags: ["Git", "GitHub", "HTML", "CSS", "JavaScript", "Web Development", "Data Science", "Machine Learning"],
+  tags: ["Git", "GitHub", "HTML", "CSS", "Java", "C++", "Cloud Engineering", "Data Science", "Machine Learning"],
   facts: [
-    { label: "Nickname",      value: "Bentong" },
-    { label: "Favorite Food", value: "Tonkatsu 🍱" },
+    { label: "Nickname",      value: "Eli" },
+    { label: "Favorite Food", value: "ANYTHING" },
     { label: "Course",        value: "BS Computer Science" },
     { label: "College",       value: "CISTM" },
-    { label: "Hobby",         value: "Pixel art 🎨" },
+    { label: "Hobby",         value: "Singing" },
     { label: "Location",      value: "Manila, PH 📍" }
   ]
 };
