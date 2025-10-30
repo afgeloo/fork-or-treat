@@ -1,16 +1,16 @@
 // profile.js
 window.PROFILE = {
-  avatar: "assets/img/profile.png",
-  name: "Wizard Honeydroid",
-  role: "Aspiring ML Engineer",
-  bio: "Tech birdie who loves coding, tidy repos, and applying what I learn.",
-  tags: ["Git", "GitHub", "HTML", "CSS", "JavaScript", "Web Development", "Data Science", "Machine Learning"],
+  avatar: "assets/img/smiski-laptop.jpg",
+  name: "Dan Rodrick S. Soriano",
+  role: "Aspiring Software Engineer",
+  bio: "A Computer Science freshie passionate in coding, creativity, and learning.",
+  tags: ["Git", "GitHub", "HTML", "CSS", "JavaScript", "Web Development", "Software Engineering", "AI and Machine Learning"],
   facts: [
-    { label: "Nickname",      value: "Bentong" },
-    { label: "Favorite Food", value: "Tonkatsu 🍱" },
+    { label: "Nickname",      value: "Dan" },
+    { label: "Favorite Food", value: "Fried Chicken 🍱" },
     { label: "Course",        value: "BS Computer Science" },
     { label: "College",       value: "CISTM" },
-    { label: "Hobby",         value: "Pixel art 🎨" },
-    { label: "Location",      value: "Manila, PH 📍" }
+    { label: "Hobby",         value: "Playing Video Games" },
+    { label: "Location",      value: "Sta. Mesa, Manila, PH 📍" }
   ]
 };
