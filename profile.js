@@ -11,6 +11,6 @@ window.PROFILE = {
     { label: "Course",        value: "BS Information Technology" },
     { label: "College",       value: "CISTM" },
     { label: "University",    value: "PLM" },
-    { label: "Location",      value: "Intramuros Manila" }
+    { label: "Location",      value: "Intramuros, Manila" }
   ]
 };
