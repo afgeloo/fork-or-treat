@@ -1,16 +1,16 @@
 // profile.js
 window.PROFILE = {
-  avatar: "assets/img/profile.png",
-  name: "Wizard Honeydroid",
-  role: "Aspiring ML Engineer",
-  bio: "Tech birdie who loves coding, tidy repos, and applying what I learn.",
-  tags: ["Git", "GitHub", "HTML", "CSS", "JavaScript", "Web Development", "Data Science", "Machine Learning"],
+  avatar: "Jam.jpg",
+  name: "Julien Jamile P. Avila",
+  role: "Aspiring Data Scientist/Engineer",
+  bio: "Make worth of your time and strive to seek every opportunity",
+  tags: ["C#.NET", "C/C++", "Python", "Java", "HTML, CSS, JS", "SQL", "Arduino (C++)"],
   facts: [
-    { label: "Nickname",      value: "Bentong" },
-    { label: "Favorite Food", value: "Tonkatsu 🍱" },
+    { label: "Nickname",      value: "Jam/Juls" },
+    { label: "Favorite Food", value: "Pizza" },
     { label: "Course",        value: "BS Computer Science" },
     { label: "College",       value: "CISTM" },
-    { label: "Hobby",         value: "Pixel art 🎨" },
-    { label: "Location",      value: "Manila, PH 📍" }
+    { label: "Hobby",         value: "Dancing" },
+    { label: "Location",      value: "QC, PH 📍" }
   ]
 };
