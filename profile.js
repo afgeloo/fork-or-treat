@@ -3,7 +3,7 @@ window.PROFILE = {
   avatar: "assets/img/pfp2.jpg",
   name: "Elijah Nery",
   role: "Aspiring Cloud Engineer",
-  bio: "Tech birdie who loves coding, tidy repos, and applying what I learn.",
+  bio: "hello, idk what to put",
   tags: ["Git", "GitHub", "HTML", "CSS", "Java", "C++", "Cloud Engineering", "Data Science", "Machine Learning"],
   facts: [
     { label: "Nickname",      value: "Eli" },
