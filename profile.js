@@ -7,7 +7,7 @@ window.PROFILE = {
   tags: ["Haribon", "Git", "GitHub", "HTML", "CSS", "JavaScript", "Python", "Data Analytics", "UI/UX", "Writing", "Project Zomboid"],
   facts: [
     { label: "Nickname",      value: "Bella" },
-    { label: "Favorite Food", value: "Fries" },
+    { label: "Favorite Food", value: "Pizza" },
     { label: "Course",        value: "BS Computer Science" },
     { label: "College",       value: "CISTM" },
     { label: "Hobby",         value: "Writing" },
