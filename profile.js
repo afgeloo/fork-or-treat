@@ -1,10 +1,10 @@
 // profile.js
 window.PROFILE = {
   avatar: "assets/img/Ruth.jpg",
-  name: "Wizard Honeydroid",
+  name: "Creepy Baby Buster",
   role: "Aspiring ML Engineer",
-  bio: "Tech birdie who loves coding, tidy repos, and applying what I learn.",
-  tags: ["Git", "GitHub", "HTML", "CSS", "JavaScript", "Web Development", "Data Science", "Machine Learning"],
+  bio: "Mathematics Student | GDGoC PLM Lead Secretariat",
+  tags: ["Git", "GitHub", "Latex", "VSCode", "Python", "JASP", "Data Science", "CNN"],
   facts: [
     { label: "Nickname",      value: "Marga" },
     { label: "Favorite Food", value: "Sushi 🍣" },
