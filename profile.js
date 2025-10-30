@@ -1,16 +1,16 @@
 // profile.js
 window.PROFILE = {
-  avatar: "assets/img/profile.png",
-  name: "Wizard Honeydroid",
-  role: "Aspiring ML Engineer",
-  bio: "Tech birdie who loves coding, tidy repos, and applying what I learn.",
-  tags: ["Git", "GitHub", "HTML", "CSS", "JavaScript", "Web Development", "Data Science", "Machine Learning"],
+  avatar: "assets/img/pfp.jpg",
+  name: "Rheician Jhoy",
+  role: "IT Student | Aspiring Developer",
+  bio: "love and hate relationship with programming",
+  tags: ["HTML", "CSS", "TailWind CSS", "JavaScript", "Web Development"],
   facts: [
-    { label: "Nickname",      value: "Bentong" },
-    { label: "Favorite Food", value: "Tonkatsu 🍱" },
-    { label: "Course",        value: "BS Computer Science" },
+    { label: "Nickname",      value: "Rhei" },
+    { label: "Favorite Food", value: "Ice Cream" },
+    { label: "Course",        value: "BS Information Technology" },
     { label: "College",       value: "CISTM" },
-    { label: "Hobby",         value: "Pixel art 🎨" },
-    { label: "Location",      value: "Manila, PH 📍" }
+    { label: "Hobby",         value: "Sleep" },
+    { label: "Location",      value: "Manila" }
   ]
 };
