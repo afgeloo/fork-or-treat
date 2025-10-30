@@ -1,6 +1,6 @@
 // profile.js
 window.PROFILE = {
-  avatar: "assets/img/smiski-laptop.jpg",
+  avatar: "assets/img/pfp.jpg",
   name: "Dan Rodrick S. Soriano",
   role: "Aspiring Software Engineer",
   bio: "Full sending a lot—only halfway sure",
@@ -9,7 +9,7 @@ window.PROFILE = {
     { label: "Nickname",      value: "Dan 🍊" },
     { label: "Favorite Food", value: "Fried Chicken 🍗" },
     { label: "Course",        value: "BS Computer Science 💻" },
-    { label: "College",       value: "CISTM - Pamantasan ng Lungsod ng Maynila" },
+    { label: "College",       value: "CISTM" },
     { label: "Hobby",         value: "Playing Video Games 🕹️" },
     { label: "Location",      value: "Sta. Mesa, Manila, PH 📍" }
   ]
