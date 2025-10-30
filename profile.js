@@ -1,16 +1,16 @@
 // profile.js
 window.PROFILE = {
-  avatar: "assets/img/profile.png",
-  name: "Wizard Honeydroid",
-  role: "Aspiring ML Engineer",
-  bio: "Tech birdie who loves coding, tidy repos, and applying what I learn.",
-  tags: ["Git", "GitHub", "HTML", "CSS", "JavaScript", "Web Development", "Data Science", "Machine Learning"],
+  avatar: "assets/img/IGLR.jpg",
+  name: "Isaiah Gabriel L. Rafailes",
+  role: "Aspiring Software QA",
+  bio: "aaaaaaa",
+  tags: ["Git", "GitHub", "HTML", "CSS", "JavaScript", "Web Development", "Database", "JMeter", "Videogames"],
   facts: [
-    { label: "Nickname",      value: "Bentong" },
-    { label: "Favorite Food", value: "Tonkatsu 🍱" },
-    { label: "Course",        value: "BS Computer Science" },
+    { label: "Nickname",      value: "Gab" },
+    { label: "Favorite Food", value: "Spaghetti" },
+    { label: "Course",        value: "BS Information Technology" },
     { label: "College",       value: "CISTM" },
-    { label: "Hobby",         value: "Pixel art 🎨" },
+    { label: "Hobby",         value: "Cooking, Digital Art" },
     { label: "Location",      value: "Manila, PH 📍" }
   ]
 };
