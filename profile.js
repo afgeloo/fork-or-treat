@@ -1,16 +1,16 @@
 // profile.js
 window.PROFILE = {
-  avatar: "assets/img/pfp2.jpg",
-  name: "Elijah Nery",
-  role: "Aspiring Cloud Engineer",
-  bio: "hello, idk what to put",
-  tags: ["Git", "GitHub", "HTML", "CSS", "Java", "C++", "Cloud Engineering", "Data Science", "Machine Learning"],
+  avatar: "assets/img/profile.png",
+  name: "Wizard Honeydroid",
+  role: "Aspiring ML Engineer",
+  bio: "hellooo, idk what put mwhaahaha",
+  tags: ["Git", "GitHub", "HTML", "CSS", "JavaScript", "Web Development", "Data Science", "Machine Learning"],
   facts: [
-    { label: "Nickname",      value: "Eli" },
-    { label: "Favorite Food", value: "ANYTHING" },
+    { label: "Nickname",      value: "Bentong" },
+    { label: "Favorite Food", value: "Tonkatsu 🍱" },
     { label: "Course",        value: "BS Computer Science" },
     { label: "College",       value: "CISTM" },
-    { label: "Hobby",         value: "Singing" },
+    { label: "Hobby",         value: "Pixel art 🎨" },
     { label: "Location",      value: "Manila, PH 📍" }
   ]
 };
