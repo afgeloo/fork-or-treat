@@ -1,16 +1,16 @@
 // profile.js
 window.PROFILE = {
-  avatar: "assets/img/profile.png",
-  name: "Wizard Honeydroid",
-  role: "Aspiring ML Engineer",
-  bio: "Tech birdie who loves coding, tidy repos, and applying what I learn.",
+  avatar: "assets/img/dp.jpg",
+  name: "Greg Justiniane",
+  role: "Aspiring Software Engineer",
+  bio: "I love Green.",
   tags: ["Git", "GitHub", "HTML", "CSS", "JavaScript", "Web Development", "Data Science", "Machine Learning"],
   facts: [
-    { label: "Nickname",      value: "Bentong" },
-    { label: "Favorite Food", value: "Tonkatsu 🍱" },
-    { label: "Course",        value: "BS Computer Science" },
-    { label: "College",       value: "CISTM" },
-    { label: "Hobby",         value: "Pixel art 🎨" },
-    { label: "Location",      value: "Manila, PH 📍" }
+    { label: "Nickname",      value: "Grant" },
+    { label: "Favorite Food", value: "Oatmeal" },
+    { label: "Course",        value: "BS Computer Engineering" },
+    { label: "College",       value: "CE" },
+    { label: "Hobby",         value: "Photography" },
+    { label: "Location",      value: "Manila, PH" }
   ]
 };
