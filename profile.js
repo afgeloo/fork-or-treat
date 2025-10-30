@@ -1,6 +1,6 @@
 // profile.js
 window.PROFILE = {
-  avatar: "assets/img/profile.png",
+  avatar: "mememe.jpg",
   name: "Jenna Dee Manuel",
   role: "Aspiring Software Engineer",
   bio: "Kapag binato ka ng rock, paper, scissors, shoot! rock aq haha lol talo k",
