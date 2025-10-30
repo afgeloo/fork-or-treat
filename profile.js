@@ -1,6 +1,6 @@
 // profile.js
 window.PROFILE = {
-  avatar: "assets/img/profile.png",
+  avatar: "assets/img/VHAL.png",
   name: "Vhalerie Lei Comeros",
   role: "Aspiring UI/UX designer & Web Development",
   bio: "loves to learn code, explore anything new, and branch out.",
