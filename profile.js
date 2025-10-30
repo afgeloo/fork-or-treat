@@ -1,6 +1,6 @@
 // profile.js
 window.PROFILE = {
-  avatar: "assets/img/profile.png",
+  avatar: "assets/img/gomabda.jpg",
   name: "Czhiaztee Tingcungco",
   role: "Aspiring AI Engineer",
   bio: "Carpe Diem",
