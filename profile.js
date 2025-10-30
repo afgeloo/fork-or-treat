@@ -10,7 +10,7 @@ window.PROFILE = {
     { label: "Favorite Food", value: "Ice Cream" },
     { label: "Course",        value: "BS Information Technology" },
     { label: "College",       value: "CISTM" },
-    { label: "Hobby",         value: "zzzzzz" },
+    { label: "Hobby",         value: "zzzz" },
     { label: "Location",      value: "Manila" }
   ]
 };
