@@ -1,6 +1,6 @@
 // profile.js
 window.PROFILE = {
-  avatar: "assets/img/IGLR.png",
+  avatar: "assets/img/IGLR.jpg",
   name: "Isaiah Gabriel L. Rafailes",
   role: "Aspiring Software QA",
   bio: "aaaaaaa",
